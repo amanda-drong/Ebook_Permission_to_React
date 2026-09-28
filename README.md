@@ -1,62 +1,74 @@
 <div align="center">
 
-<img src="./assets/icon_react.png" alt="Logo do React" width="180">
+<img src="./assets/icon_react.png" alt="React" width="140">
 
 # Permission to React
 
-### Uma jornada pelos principais conceitos
+**Uma jornada pelos principais conceitos do React**
 
 **Guia prático para dominar seus fundamentos**
+
+<br>
+
+[![**Ler o e-book**](https://img.shields.io/badge/Ler%20o%20e--book-444444?style=for-the-badge&logo=github&logoColor=white)](https://canva.link/gimmba916h1k10y)
 
 </div>
 
 ---
 
-## Sobre o e-book
+## Sobre o projeto
 
-**Permission to React** é um guia prático criado para apresentar os principais fundamentos do React de forma simples, visual e objetiva.
+**Permission to React** é um guia prático desenvolvido para apresentar os principais fundamentos do React de forma simples, visual e objetiva.
 
-O conteúdo foi desenvolvido como uma **cheatsheet para consultas rápidas**, reunindo exemplos de código e explicações dos conceitos essenciais para quem está começando a explorar a biblioteca.
+O e-book reúne explicações e exemplos de código sobre conceitos essenciais para quem está começando a desenvolver com React, funcionando também como uma **cheatsheet para consultas rápidas durante os estudos e o desenvolvimento**.
 
-## Conteúdos abordados
+---
 
-- Componentes
-- Componentes funcionais
-- Props
-- Estados com `useState`
-- Efeitos com `useEffect`
-- Eventos
-- Renderização condicional
-- Operador lógico `&&`
-- Operador ternário
-- Listas e `.map()`
-- Atributo `key`
-- Fragments
-- `children`
+## O que você vai encontrar
 
-## Objetivo
+| Conceito | Conteúdo |
+| --- | --- |
+| **Componentes** | Componentes funcionais e reutilização |
+| **Props** | Passagem de dados entre componentes |
+| **useState** | Criação e atualização de estados |
+| **useEffect** | Efeitos e sincronização com sistemas externos |
+| **Eventos** | `onClick`, `onChange` e interações |
+| **Renderização condicional** | `&&` e operador ternário |
+| **Listas** | `.map()` e renderização de dados |
+| **Keys** | Identificação de elementos em listas |
+| **Fragments** | Agrupamento sem elementos extras |
+| **Children** | Conteúdo passado para componentes |
 
-Facilitar a compreensão dos conceitos fundamentais do React e servir como material de consulta durante o desenvolvimento de aplicações.
+---
 
-O e-book não busca substituir a documentação oficial, mas funcionar como um material complementar para revisão e consulta rápida.
+## Para quem é?
+
+Este material foi pensado principalmente para quem está **começando a estudar React** e quer ter uma referência rápida dos conceitos fundamentais da biblioteca.
+
+> O objetivo não é substituir a documentação oficial, mas facilitar a revisão e a consulta dos principais conceitos no dia a dia.
+
+---
 
 ## Referência
 
-O conteúdo foi desenvolvido tendo como base a documentação oficial do React:
+O conteúdo foi desenvolvido tendo como base a **documentação oficial do React**.
 
-[React Documentation](https://react.dev/)
+🔗 [react.dev](https://react.dev/)
+
+---
 
 ## Autora
 
-**Amanda Camargo Drong**
+Desenvolvido por **Amanda Camargo Drong**
 
-- GitHub: [@amanda-drong](https://github.com/amanda-drong)
-- LinkedIn: [Amanda Camargo Drong](https://www.linkedin.com/in/amanda-camargo-drong/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-camargo-drong)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanda-drong)
 
 ---
 
 <div align="center">
+### Permission to React
 
-**Permission to React — 2026**
+*Sua jornada no React está apenas começando.*
 
 </div>
