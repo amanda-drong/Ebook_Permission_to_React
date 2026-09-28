@@ -67,6 +67,7 @@ Desenvolvido por **Amanda Camargo Drong**
 ---
 
 <div align="center">
+  
 ### Permission to React
 
 *Sua jornada no React está apenas começando.*
